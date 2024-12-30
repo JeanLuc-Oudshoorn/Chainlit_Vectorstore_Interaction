@@ -1,0 +1,11 @@
+chainlit
+langchain
+langchain-community
+langchain-openai
+openai
+sentence-transformers
+pymupdf
+faiss-cpu
+python-dotenv
+langchain-huggingface
+aiofiles

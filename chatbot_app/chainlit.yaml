@@ -1,0 +1,14 @@
+# chainlit.yaml
+
+project:
+  name: "RAG Chatbot with Chainlit (FAISS)"
+  description: "Chainlit app using FAISS for retrieval."
+
+# Disable local DB for chat history:
+database: false
+
+ui:
+  actions_menu: true
+  default_expand_messages: true
+  hide_cot: true
+  language: en-US
